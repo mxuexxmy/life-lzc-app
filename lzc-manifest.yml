@@ -1,0 +1,12 @@
+lzc-sdk-version: 0.1
+name: 生活记录
+package: cloud.lazycat.app.life
+version: 0.0.1
+description: 
+license: https://choosealicense.com/licenses/mit/
+homepage: 
+author: 
+application:
+  subdomain: life
+  routes:
+    - /=file:///lzcapp/pkg/content/ui
